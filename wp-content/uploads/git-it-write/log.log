@@ -1,0 +1,220 @@
+01/29/2023 09:28 - ********** Publishing posts by repository config ID **********
+01/29/2023 09:28 - Working with repository config ID 1
+01/29/2023 09:28 - Creating repository object
+01/29/2023 09:28 - Building repo structure ...
+01/29/2023 09:28 - Repository not found on Github! [https://api.github.com/repos/malavkailash/enablex-io/git/trees/master?recursive=1]
+01/29/2023 09:28 - ********** END **********
+01/29/2023 09:31 - ********** Publishing posts by repository config ID **********
+01/29/2023 09:31 - Working with repository config ID 1
+01/29/2023 09:31 - Creating repository object
+01/29/2023 09:31 - Building repo structure ...
+01/29/2023 09:31 - Failed to fetch the repository tree! [https://api.github.com/repos/malavkailash/https://github.com/malavkailash/enablex-io/tree/master/git/trees/master?recursive=1]
+01/29/2023 09:31 - ********** END **********
+01/29/2023 09:43 - ********** Publishing posts by repository config ID **********
+01/29/2023 09:43 - Working with repository config ID 1
+01/29/2023 09:43 - Creating repository object
+01/29/2023 09:43 - Building repo structure ...
+01/29/2023 09:43 - Failed to fetch the repository tree! [https://api.github.com/repos/metapercept/enablex-io/git/trees/master?recursive=1]
+01/29/2023 09:43 - ********** END **********
+01/29/2023 10:02 - ********** Publishing posts by repository config ID **********
+01/29/2023 10:02 - Working with repository config ID 1
+01/29/2023 10:02 - Creating repository object
+01/29/2023 10:02 - Building repo structure ...
+01/29/2023 10:02 - ********** END **********
+01/29/2023 10:03 - ********** Publishing posts by repository config ID **********
+01/29/2023 10:03 - Working with repository config ID 1
+01/29/2023 10:03 - Creating repository object
+01/29/2023 10:03 - Building repo structure ...
+01/29/2023 10:03 - ********** END **********
+01/29/2023 10:11 - ********** Publishing posts by repository config ID **********
+01/29/2023 10:11 - Working with repository config ID 1
+01/29/2023 10:11 - Creating repository object
+01/29/2023 10:11 - Building repo structure ...
+01/29/2023 10:11 - ********** END **********
+01/29/2023 11:33 - ********** Publishing posts by repository config ID **********
+01/29/2023 11:33 - Working with repository config ID 1
+01/29/2023 11:33 - Creating repository object
+01/29/2023 11:33 - Building repo structure ...
+01/29/2023 11:33 - {"LICENSE":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/LICENSE","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/LICENSE","sha":"261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64","file_type":""},"README":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/README.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/README.md","sha":"9189ae484546e35aa66e34f4146443ec636be521","file_type":"md"},"get-list-of-rooms":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/get-list-of-rooms.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/get-list-of-rooms.md","sha":"c0bdd5e59f94621fd4a65c0f8bc6fc30f2dad0dc","file_type":"md"},"index":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/index.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/index.md","sha":"d466496d7652fb5aa0546f15a2aaab3f6942d27f","file_type":"md"}}
+01/29/2023 11:33 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 11:33 - No images directory in repository. Exiting
+01/29/2023 11:33 - ++++++++++ Done ++++++++++
+01/29/2023 11:33 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 11:33 - Allowed file types - md
+01/29/2023 11:33 - At repository item - LICENSE
+01/29/2023 11:33 - Skipping file as it is not an allowed file type
+01/29/2023 11:33 - At repository item - README
+01/29/2023 11:33 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:33 - ---------- Published post: 13 ----------
+01/29/2023 11:33 - At repository item - get-list-of-rooms
+01/29/2023 11:33 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:33 - ---------- Published post: 14 ----------
+01/29/2023 11:33 - At repository item - index
+01/29/2023 11:33 - Skipping separate post for index
+01/29/2023 11:33 - ++++++++++ Done ++++++++++
+01/29/2023 11:33 - {"result":1,"message":"Successfully published posts","stats":{"posts":{"new":{"13":"https:\/\/localhost\/wordpress\/?post_type=page&p=13","14":"https:\/\/localhost\/wordpress\/?post_type=page&p=14"},"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 11:33 - ********** END **********
+01/29/2023 11:36 - ********** Publishing posts by repository config ID **********
+01/29/2023 11:36 - Working with repository config ID 1
+01/29/2023 11:36 - Creating repository object
+01/29/2023 11:36 - Building repo structure ...
+01/29/2023 11:36 - {"LICENSE":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/LICENSE","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/LICENSE","sha":"261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64","file_type":""},"README":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/README.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/README.md","sha":"9189ae484546e35aa66e34f4146443ec636be521","file_type":"md"},"get-list-of-rooms":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/get-list-of-rooms.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/get-list-of-rooms.md","sha":"c0bdd5e59f94621fd4a65c0f8bc6fc30f2dad0dc","file_type":"md"},"index":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/index.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/index.md","sha":"d466496d7652fb5aa0546f15a2aaab3f6942d27f","file_type":"md"}}
+01/29/2023 11:36 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 11:36 - No images directory in repository. Exiting
+01/29/2023 11:36 - ++++++++++ Done ++++++++++
+01/29/2023 11:36 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 11:36 - Allowed file types - md
+01/29/2023 11:36 - At repository item - LICENSE
+01/29/2023 11:36 - Skipping file as it is not an allowed file type
+01/29/2023 11:36 - At repository item - README
+01/29/2023 11:36 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:36 - ---------- Published post: 15 ----------
+01/29/2023 11:36 - At repository item - get-list-of-rooms
+01/29/2023 11:36 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:36 - ---------- Published post: 16 ----------
+01/29/2023 11:36 - At repository item - index
+01/29/2023 11:36 - Skipping separate post for index
+01/29/2023 11:36 - ++++++++++ Done ++++++++++
+01/29/2023 11:36 - {"result":1,"message":"Successfully published posts","stats":{"posts":{"new":{"15":"https:\/\/localhost\/wordpress\/?wp_navigation=readme","16":"https:\/\/localhost\/wordpress\/?wp_navigation=get-list-of-rooms"},"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 11:36 - ********** END **********
+01/29/2023 11:39 - ********** Publishing posts by repository config ID **********
+01/29/2023 11:39 - Working with repository config ID 1
+01/29/2023 11:39 - Creating repository object
+01/29/2023 11:39 - Building repo structure ...
+01/29/2023 11:39 - {"LICENSE":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/LICENSE","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/LICENSE","sha":"261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64","file_type":""},"README":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/README.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/README.md","sha":"9189ae484546e35aa66e34f4146443ec636be521","file_type":"md"},"get-list-of-rooms":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/get-list-of-rooms.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/get-list-of-rooms.md","sha":"c0bdd5e59f94621fd4a65c0f8bc6fc30f2dad0dc","file_type":"md"},"index":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/index.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/index.md","sha":"d466496d7652fb5aa0546f15a2aaab3f6942d27f","file_type":"md"},"open-api-tool":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/open-api-tool.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/open-api-tool.md","sha":"616e1330449d1a649dbdd8868eb8a1224e818a50","file_type":"md"},"server-API-video-application-server":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/server-API-video-application-server.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/server-API-video-application-server.md","sha":"635cd95a53bf9d73b60ba5bf9edccf933aa447b8","file_type":"md"},"setup-low-code-video-embed":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/setup-low-code-video-embed.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/setup-low-code-video-embed.md","sha":"a26fbff7b2da96b2d3b87f7faa4aae377a038c89","file_type":"md"}}
+01/29/2023 11:39 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 11:39 - No images directory in repository. Exiting
+01/29/2023 11:39 - ++++++++++ Done ++++++++++
+01/29/2023 11:39 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 11:39 - Allowed file types - md
+01/29/2023 11:39 - At repository item - LICENSE
+01/29/2023 11:39 - Skipping file as it is not an allowed file type
+01/29/2023 11:39 - At repository item - README
+01/29/2023 11:39 - ---------- Checking post [15] under parent [0] ----------
+01/29/2023 11:39 - Post is unchanged
+01/29/2023 11:39 - At repository item - get-list-of-rooms
+01/29/2023 11:39 - ---------- Checking post [16] under parent [0] ----------
+01/29/2023 11:39 - Post is unchanged
+01/29/2023 11:39 - At repository item - index
+01/29/2023 11:39 - Skipping separate post for index
+01/29/2023 11:39 - At repository item - open-api-tool
+01/29/2023 11:39 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:39 - ---------- Published post: 17 ----------
+01/29/2023 11:39 - At repository item - server-API-video-application-server
+01/29/2023 11:39 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:39 - ---------- Published post: 18 ----------
+01/29/2023 11:39 - At repository item - setup-low-code-video-embed
+01/29/2023 11:39 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:39 - ---------- Published post: 19 ----------
+01/29/2023 11:39 - ++++++++++ Done ++++++++++
+01/29/2023 11:39 - {"result":1,"message":"Successfully published posts","stats":{"posts":{"new":{"17":"https:\/\/localhost\/wordpress\/?wp_navigation=open-api-tool","18":"https:\/\/localhost\/wordpress\/?wp_navigation=server-api-video-application-server","19":"https:\/\/localhost\/wordpress\/?wp_navigation=setup-low-code-video-embed"},"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 11:39 - ********** END **********
+01/29/2023 11:54 - ********** Publishing posts by repository config ID **********
+01/29/2023 11:54 - Working with repository config ID 1
+01/29/2023 11:54 - Creating repository object
+01/29/2023 11:54 - Building repo structure ...
+01/29/2023 11:54 - {"LICENSE":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/LICENSE","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/LICENSE","sha":"261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64","file_type":""},"README":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/README.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/README.md","sha":"9189ae484546e35aa66e34f4146443ec636be521","file_type":"md"},"get-list-of-rooms":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/get-list-of-rooms.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/get-list-of-rooms.md","sha":"c0bdd5e59f94621fd4a65c0f8bc6fc30f2dad0dc","file_type":"md"},"index":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/index.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/index.md","sha":"d466496d7652fb5aa0546f15a2aaab3f6942d27f","file_type":"md"},"open-api-tool":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/open-api-tool.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/open-api-tool.md","sha":"616e1330449d1a649dbdd8868eb8a1224e818a50","file_type":"md"},"server-API-video-application-server":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/server-API-video-application-server.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/server-API-video-application-server.md","sha":"635cd95a53bf9d73b60ba5bf9edccf933aa447b8","file_type":"md"},"setup-low-code-video-embed":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/setup-low-code-video-embed.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/setup-low-code-video-embed.md","sha":"a26fbff7b2da96b2d3b87f7faa4aae377a038c89","file_type":"md"}}
+01/29/2023 11:54 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 11:54 - No images directory in repository. Exiting
+01/29/2023 11:54 - ++++++++++ Done ++++++++++
+01/29/2023 11:54 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 11:54 - Allowed file types - md
+01/29/2023 11:54 - At repository item - LICENSE
+01/29/2023 11:54 - Skipping file as it is not an allowed file type
+01/29/2023 11:54 - At repository item - README
+01/29/2023 11:54 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:54 - ---------- Published post: 23 ----------
+01/29/2023 11:54 - At repository item - get-list-of-rooms
+01/29/2023 11:54 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:54 - ---------- Published post: 24 ----------
+01/29/2023 11:54 - At repository item - index
+01/29/2023 11:54 - Skipping separate post for index
+01/29/2023 11:54 - At repository item - open-api-tool
+01/29/2023 11:54 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:54 - ---------- Published post: 25 ----------
+01/29/2023 11:54 - At repository item - server-API-video-application-server
+01/29/2023 11:54 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:54 - ---------- Published post: 26 ----------
+01/29/2023 11:54 - At repository item - setup-low-code-video-embed
+01/29/2023 11:54 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 11:54 - ---------- Published post: 27 ----------
+01/29/2023 11:54 - ++++++++++ Done ++++++++++
+01/29/2023 11:54 - {"result":1,"message":"Successfully published posts","stats":{"posts":{"new":{"23":"https:\/\/localhost\/wordpress\/?post_type=post&p=23","24":"https:\/\/localhost\/wordpress\/?post_type=post&p=24","25":"https:\/\/localhost\/wordpress\/?post_type=post&p=25","26":"https:\/\/localhost\/wordpress\/?post_type=post&p=26","27":"https:\/\/localhost\/wordpress\/?post_type=post&p=27"},"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 11:54 - ********** END **********
+01/29/2023 12:23 - ********** Publishing posts by repository config ID **********
+01/29/2023 12:23 - Working with repository config ID 1
+01/29/2023 12:23 - Creating repository object
+01/29/2023 12:23 - Building repo structure ...
+01/29/2023 12:23 - Repository not found on Github! [https://api.github.com/repos/malavkailash/PublishMarkdown/git/trees/main?recursive=1]
+01/29/2023 12:23 - []
+01/29/2023 12:23 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 12:23 - No images directory in repository. Exiting
+01/29/2023 12:23 - ++++++++++ Done ++++++++++
+01/29/2023 12:23 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 12:23 - Allowed file types - md
+01/29/2023 12:23 - ++++++++++ Done ++++++++++
+01/29/2023 12:23 - {"result":3,"message":"No new changed were made. All posts are up to date.","stats":{"posts":{"new":[],"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 12:23 - ********** END **********
+01/29/2023 12:24 - ********** Publishing posts by repository config ID **********
+01/29/2023 12:24 - Working with repository config ID 1
+01/29/2023 12:24 - Creating repository object
+01/29/2023 12:24 - Building repo structure ...
+01/29/2023 12:24 - Repository not found on Github! [https://api.github.com/repos/malavkailash/PublishMarkdown/git/trees/main?recursive=1]
+01/29/2023 12:24 - []
+01/29/2023 12:24 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 12:24 - No images directory in repository. Exiting
+01/29/2023 12:24 - ++++++++++ Done ++++++++++
+01/29/2023 12:24 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 12:24 - Allowed file types - md
+01/29/2023 12:24 - ++++++++++ Done ++++++++++
+01/29/2023 12:24 - {"result":3,"message":"No new changed were made. All posts are up to date.","stats":{"posts":{"new":[],"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 12:24 - ********** END **********
+01/29/2023 12:27 - ********** Publishing posts by repository config ID **********
+01/29/2023 12:27 - Working with repository config ID 1
+01/29/2023 12:27 - Creating repository object
+01/29/2023 12:27 - Building repo structure ...
+01/29/2023 12:27 - Repository not found on Github! [https://api.github.com/repos/malavkailash/PublishMarkdown/git/trees/main?recursive=1]
+01/29/2023 12:27 - []
+01/29/2023 12:27 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 12:27 - No images directory in repository. Exiting
+01/29/2023 12:27 - ++++++++++ Done ++++++++++
+01/29/2023 12:27 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 12:27 - Allowed file types - md
+01/29/2023 12:27 - ++++++++++ Done ++++++++++
+01/29/2023 12:27 - {"result":3,"message":"No new changed were made. All posts are up to date.","stats":{"posts":{"new":[],"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 12:27 - ********** END **********
+01/29/2023 12:29 - ********** Publishing posts by repository config ID **********
+01/29/2023 12:29 - Working with repository config ID 1
+01/29/2023 12:29 - Creating repository object
+01/29/2023 12:29 - Building repo structure ...
+01/29/2023 12:29 - {"LICENSE":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/LICENSE","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/LICENSE","sha":"261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64","file_type":""},"README":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/README.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/README.md","sha":"9189ae484546e35aa66e34f4146443ec636be521","file_type":"md"},"get-list-of-rooms":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/get-list-of-rooms.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/get-list-of-rooms.md","sha":"c0bdd5e59f94621fd4a65c0f8bc6fc30f2dad0dc","file_type":"md"},"index":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/index.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/index.md","sha":"d466496d7652fb5aa0546f15a2aaab3f6942d27f","file_type":"md"},"open-api-tool":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/open-api-tool.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/open-api-tool.md","sha":"616e1330449d1a649dbdd8868eb8a1224e818a50","file_type":"md"},"recording-file-security":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/recording-file-security.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/recording-file-security.md","sha":"70213c7f4d555dc41da19dfd5a0fb75303f25074","file_type":"md"},"server-API-video-application-server":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/server-API-video-application-server.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/server-API-video-application-server.md","sha":"635cd95a53bf9d73b60ba5bf9edccf933aa447b8","file_type":"md"},"setup-low-code-video-embed":{"type":"file","raw_url":"https:\/\/raw.githubusercontent.com\/malavkailash\/PublishMarkdown\/main\/setup-low-code-video-embed.md","github_url":"https:\/\/github.com\/malavkailash\/PublishMarkdown\/blob\/main\/setup-low-code-video-embed.md","sha":"a26fbff7b2da96b2d3b87f7faa4aae377a038c89","file_type":"md"}}
+01/29/2023 12:29 - ++++++++++ Uploading images first ++++++++++
+01/29/2023 12:29 - No images directory in repository. Exiting
+01/29/2023 12:29 - ++++++++++ Done ++++++++++
+01/29/2023 12:29 - ++++++++++ Publishing posts ++++++++++
+01/29/2023 12:29 - Allowed file types - md
+01/29/2023 12:29 - At repository item - LICENSE
+01/29/2023 12:29 - Skipping file as it is not an allowed file type
+01/29/2023 12:29 - At repository item - README
+01/29/2023 12:29 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 12:29 - ---------- Published post: 33 ----------
+01/29/2023 12:29 - At repository item - get-list-of-rooms
+01/29/2023 12:29 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 12:29 - ---------- Published post: 34 ----------
+01/29/2023 12:29 - At repository item - index
+01/29/2023 12:29 - Skipping separate post for index
+01/29/2023 12:29 - At repository item - open-api-tool
+01/29/2023 12:29 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 12:29 - ---------- Published post: 35 ----------
+01/29/2023 12:29 - At repository item - recording-file-security
+01/29/2023 12:29 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 12:29 - ---------- Published post: 36 ----------
+01/29/2023 12:29 - At repository item - server-API-video-application-server
+01/29/2023 12:29 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 12:29 - ---------- Published post: 37 ----------
+01/29/2023 12:29 - At repository item - setup-low-code-video-embed
+01/29/2023 12:29 - ---------- Checking post [0] under parent [0] ----------
+01/29/2023 12:29 - ---------- Published post: 38 ----------
+01/29/2023 12:29 - ++++++++++ Done ++++++++++
+01/29/2023 12:29 - {"result":1,"message":"Successfully published posts","stats":{"posts":{"new":{"33":"https:\/\/localhost\/wordpress\/?post_type=post&p=33","34":"https:\/\/localhost\/wordpress\/?post_type=post&p=34","35":"https:\/\/localhost\/wordpress\/?post_type=post&p=35","36":"https:\/\/localhost\/wordpress\/?post_type=post&p=36","37":"https:\/\/localhost\/wordpress\/?post_type=post&p=37","38":"https:\/\/localhost\/wordpress\/?post_type=post&p=38"},"updated":[],"failed":0},"images":{"uploaded":[],"failed":0}}}
+01/29/2023 12:29 - ********** END **********
